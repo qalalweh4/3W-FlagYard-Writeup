@@ -345,7 +345,7 @@ printf                    0x060100   (for the GOT leak)
 Done
 PWN_OK_42
 uid=1000(ubuntu) gid=1000(ubuntu) groups=1000(ubuntu)
-FlagY{dbca767f8a4a33b563e2069db3937b2c}
+FlagY{dbcaXXXXXXXXXXXXXXXXXXXXXXXXXXX}
 ```
 
 ---
