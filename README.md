@@ -2,8 +2,7 @@
 
 **CTF:** FlagYard · **Category:** PWN · **Difficulty:** Medium (250 pts)
 **Prompt:** *"can you turn that power into a shell?"*
-**Flag:** `FlagY{dbca767f8a4a33b563e2069db3937b2c}`
-**Target:** `tcp.flagyard.com:27363`
+
 
 ---
 
